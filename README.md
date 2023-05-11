@@ -15,8 +15,8 @@ get_next_line is a 42 school project whose goal is to create a function that rea
 
 ## How to use
 - Clone the repository with `git clone`
-- Compile your program with `get_next_line.c` and `get_next_line_utils.c`
 - Include the header file `get_next_line.h` in your project
+- Compile your program with `get_next_line.c` and `get_next_line_utils.c`
 
 ## Exemple
 ```bash
